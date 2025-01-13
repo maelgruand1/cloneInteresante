@@ -4,10 +4,7 @@ header{
     color: white
 
 }
-header h1{
-    color: black;
-    overflow-x: scroll;
-}
+header h1{color: black;}
 div.menu{
     background: linear-gradient(to right, black 25%, grey 60%);
     padding: 15px;
