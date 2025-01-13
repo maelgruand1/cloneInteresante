@@ -1,0 +1,16 @@
+header{
+    padding: 25px;
+    background: linear-gradient(to right, red 25%, magenta 60%);
+    color: white
+
+}
+header h1{
+    color: black;
+    overflow-x: scroll;
+}
+div.menu{
+    background: linear-gradient(to right, black 25%, grey 60%);
+    padding: 15px;
+}
+
+
