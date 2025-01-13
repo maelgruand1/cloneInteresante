@@ -15,6 +15,8 @@ div.menu{
 .menu button{
     color: black;
     background: linear-gradient(to right, orange, orangered);
+    border: solid 0px;
+    border-radius: 230px;
 }
 .menu button:hover{
     color: white;
