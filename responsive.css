@@ -1,0 +1,7 @@
+:root{
+    --mobileInch: 320px;
+    --mobileHeig: 655px;
+    --tabletInch: 768px;
+    --laptop: 1024px;
+    --laptop: 1440px;
+}
