@@ -1,13 +1,15 @@
 header{
     padding: 25px;
     background: linear-gradient(to right, red 25%, magenta 60%);
-    color: white
+    color: white;
+    text-align: center;
 
 }
-header h1{color: black;}
+header h1{color: black; text-align: center;}
 div.menu{
     background: linear-gradient(to right, black 25%, grey 60%);
     padding: 15px;
+    text-align: center;
 }
 
 
